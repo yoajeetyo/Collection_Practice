@@ -13,7 +13,7 @@ public class ArrayListIterateUsingForEach {
 	        al.add(6);
 	        al.add(9);
 	        al.add(7);
-	        System.out.println("Using Advanced For Loop");   
+	        System.out.println("Using Advanced For Loop or for each loop");   
 	        // printing ArrayList 
 	        for (Integer num : al) {         
 	            System.out.println(num);   
